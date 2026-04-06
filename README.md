@@ -26,10 +26,10 @@ This project presents an end-to-end **Revenue Intelligence Dashboard** built in 
 ### Page 2 — Trends by Key Metrics (RevPAR, ADR, Occupancy %)
 ![Trends by Metrics](screenshots/trends_by_metrics.png)
 
-### Page 2 — Weekday vs. Weekend Performance Deep Dive
+### Page 3 — Weekday vs. Weekend Performance Deep Dive
 ![Weekday Weekend Table](screenshots/weekday_weekend_table.png)
 
-### Page 2 — Weekday vs. Weekend Performance Deep Dive
+### Page 4 — Booking Distribution Deep Dive
 ![Booking_distribution](screenshots/Booking_distribution.png)
 
 
