@@ -29,6 +29,10 @@ This project presents an end-to-end **Revenue Intelligence Dashboard** built in 
 ### Page 2 — Weekday vs. Weekend Performance Deep Dive
 ![Weekday Weekend Table](screenshots/weekday_weekend_table.png)
 
+### Page 2 — Weekday vs. Weekend Performance Deep Dive
+![Booking_distribution](screenshots/Booking_distribution.png)
+
+
 ---
 
 ## 🔑 Key Metrics at a Glance
@@ -196,7 +200,8 @@ Key_measures (DAX) ────┘
  ┃ ┣ 📸 dashboard_kpi.png
  ┃ ┣ 📸 revenue_by_category.png
  ┃ ┣ 📸 trends_by_metrics.png
- ┃ ┗ 📸 weekday_weekend_table.png
+ ┃ ┣ 📸 weekday_weekend_table.png
+ ┃ ┗ 📸 Booking_distribution.png
  ┣ 📂 data (sample/anonymized)
  ┃ ┣ 📄 dim_date.csv
  ┃ ┣ 📄 dim_hotels.csv
